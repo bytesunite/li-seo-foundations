@@ -41,6 +41,12 @@ LinkedIn Learning course - [SEO Foundations](https://www.linkedin.com/learning/s
    
    - question 4 forgets to mention Google Search Console
 
+4. Chapter 5-3 Measuring SEO Performance
+   - The terms "touch point" and "attribution" solutions lack description. The instructor forgets people likely are not familiar with or speak SEO & marketing.<br>
+   https://www.nutshell.com/engagement/resources/customer-touchpoints<br>
+   https://www.seobility.net/en/wiki/Customer_Touchpoints
+
+
 
 
 
