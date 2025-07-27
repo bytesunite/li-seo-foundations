@@ -36,6 +36,11 @@ LinkedIn Learning course - [SEO Foundations](https://www.linkedin.com/learning/s
       </blockquote>
 
 
+3. Chapter 4 quiz
+   - question 2 says a color is an on page element that can be optimized. This wording is odd and laughable at best because one color is not "optimized" over another color. The CSS styles can be minimized and optimized. The UI design can be improved for stronger contrast and readability. But you cannot optimize a color.
+   
+   - question 4 forgets to mention Google Search Console
+
 
 
 
